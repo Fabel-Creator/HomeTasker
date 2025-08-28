@@ -1,0 +1,8 @@
+Replace Replit authentication with a local admin and guest system
+
+Removes Replit-specific authentication, introduces local admin and guest session management, updates environment variables for production, and modifies frontend login links.
+
+Replit-Commit-Author: Agent
+Replit-Commit-Session-Id: c4b509f4-a6a7-4a61-92d8-fe6c55f37754
+Replit-Commit-Checkpoint-Type: full_checkpoint
+Replit-Commit-Screenshot-Url: https://storage.googleapis.com/screenshot-production-us-central1/8b234a5c-f9a0-42ce-808a-136126e53e1d/c4b509f4-a6a7-4a61-92d8-fe6c55f37754/5ZcO7Ho
